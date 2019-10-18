@@ -10,7 +10,6 @@ class CheckedExceptions {
 		Thread.sleep(5000);
 		//Interrupted exception
 		
-		//we can use Try-Catch/Throws from tooltip of red cross to resolve
 		
 		System.out.println("program is started");
 		System.out.println("program is started");
