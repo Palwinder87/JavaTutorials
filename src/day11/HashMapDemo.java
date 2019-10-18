@@ -53,6 +53,7 @@ public class HashMapDemo {
 		for(Map.Entry m:hm.entrySet())
 		{
 			System.out.println(m.getKey()+"  "+m.getValue());
+		
 		}
 
 	}
