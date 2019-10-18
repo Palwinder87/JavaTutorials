@@ -24,7 +24,7 @@ public class FianllyExample {
 			System.out.println("Entered into finally block");
 		}
 		
-		System.out.println("Program exited");
+		System.out.println("Program exitedd");
 		
 	}
 

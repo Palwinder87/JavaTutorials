@@ -12,7 +12,7 @@ class CheckedExceptions {
 		
 		
 		System.out.println("program is started");
-		System.out.println("program is startedd");
+		System.out.println("program is started");
 
 	}
 
